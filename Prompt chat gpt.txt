@@ -1,0 +1,16 @@
+Vou te dar linhas em csv e preciso que você faça uso da ultima coluna 
+para gerar as feature dos produtos conforme o exemplo abaixo e outros 
+dados que você julgue relevante. Faça para todos os dados abaixo pensando 
+que todos precisam ter categoria não muito específica e precisa estar 
+fora de features em um mesmo arquivo json, veja o exemplo:
+   {
+    "id": 10,
+    "title": "Design Toscano QM2787100 Darby, the Forest Fawn Baby Deer Statue, full color",
+    "category": "Garden Decor",
+    "features": {
+      "material": "Resin",
+      "dimensions": "14.5\"Wx6\"Dx9\"H 2 lbs",
+      "exclusive": "Exclusive to the Design Toscano brand",
+      "theme": "Animals & Sealife"
+    }
+  },
