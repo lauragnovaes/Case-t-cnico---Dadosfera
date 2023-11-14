@@ -13,7 +13,7 @@ Para gerar separar as features da tabela foi utilizado o ChatGPT. Como há uma l
 
 Para analisar os itens por categoria foram realizadas duas análises através de uma consulta em SQL uma para todas as [categorias](https://metabase-treinamentos.dadosfera.ai/question/474-produtos-por-categoria) e outra para as [10 maiores categorias](https://metabase-treinamentos.dadosfera.ai/question/476-top-10-maiores-categorias). Com esses dados foi criado o  dashboard ![dashboard](https://github.com/lauragnovaes/Case-t-cnico---Dadosfera/blob/master/Dashboard%20an%C3%A1lise%20de%20produtos.png) disponível no [link](https://metabase-treinamentos.dadosfera.ai/dashboard/59-analise-de-produtos-corpus).
 
-## Parte 2
+# Parte 2
 ## Item 5
 
 Para fazer o Dataapp streamlit foi utilizada uma nova [base de dados](https://github.com/lauragnovaes/Case-t-cnico---Dadosfera/blob/master/bookdata.csv) e ela foi colocada na plataforma da Dadosfera de maneira reduzida devido a limitação de tamanho de arquivo da plataforma. O Dataapp pode ser encontrado no [link](https://app-intelligence-treinamentos.dadosfera.ai/pbp-service-case-laura-925950f5-90d1-4aef620f0661-d0e9-4811_8501/) ou no [arquivo](https://github.com/lauragnovaes/Case-t-cnico---Dadosfera/blob/master/app.py).
